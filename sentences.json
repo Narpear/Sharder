@@ -1,0 +1,94 @@
+{
+  "stages": [
+    {
+      "stage": 1,
+      "parts": [
+        {
+          "difficulty": "easy",
+          "sentences": [
+            {"sentence": "The sky is clear today."},
+            {"sentence": "My mom cooks delicious food."},
+            {"sentence": "I enjoy reading books."},
+            {"sentence": "He likes to play soccer."},
+            {"sentence": "We go to the beach in the summer."}
+          ]
+        },
+        {
+          "difficulty": "intermediate",
+          "sentences": [
+            {"sentence": "She completed her degree with honors."},
+            {"sentence": "We decided to go hiking this weekend."},
+            {"sentence": "The concert tickets sold out quickly."},
+            {"sentence": "He proposed to her on their anniversary."},
+            {"sentence": "I'm thinking of starting a new hobby."}
+          ]
+        },
+        {
+          "difficulty": "difficult",
+          "sentences": [
+            {"sentence": "The intricacies of diplomatic negotiations require tact and skill."},
+            {"sentence": "The ramifications of geopolitical conflicts are far reaching."},
+            {"sentence": "The surreptitious actions of the spy remained undetected for years."},
+            {"sentence": "The enigmatic smile of the Sphinx has puzzled historians for centuries."},
+            {"sentence": "The cacophony of city life can be overwhelming at times."}
+          ]
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "parts": [
+        {
+          "difficulty": "super easy",
+          "sentences": [
+            {"sentence": "The sun is hot."},
+            {"sentence": "I am happy."},
+            {"sentence": "She runs fast."},
+            {"sentence": "Dogs bark loudly."},
+            {"sentence": "Birds fly high."}
+          ]
+        },
+        {
+          "difficulty": "easy",
+          "sentences": [
+            {"sentence": "My cat is black."},
+            {"sentence": "The book is on the table."},
+            {"sentence": "She wears a red dress."},
+            {"sentence": "He drinks coffee every morning."},
+            {"sentence": "The dog chases the ball."}
+          ]
+        },
+        {
+          "difficulty": "intermediate",
+          "sentences": [
+            {"sentence": "Despite the rain, we went for a walk."},
+            {"sentence": "The concert was canceled due to bad weather."},
+            {"sentence": "She cooked dinner while he set the table."},
+            {"sentence": "After studying hard, she passed the exam."},
+            {"sentence": "The traffic was terrible, so we arrived late."}
+          ]
+        },
+        {
+          "difficulty": "difficult",
+          "sentences": [
+            {"sentence": "The intricacies of quantum mechanics are beyond my comprehension."},
+            {"sentence": "The dichotomy between tradition and modernity shapes societal norms."},
+            {"sentence": "The ineffable beauty of nature often leaves me in awe."},
+            {"sentence": "His erudition was evident in every conversation we had."},
+            {"sentence": "The convoluted plot of the novel made it difficult to follow."}
+          ]
+        },
+        {
+          "difficulty": "super difficult",
+          "sentences": [
+            {"sentence": "The ontological implications of consciousness remain a subject of philosophical debate."},
+            {"sentence": "Quantum entanglement defies classical thoughts about the nature of reality."},
+            {"sentence": "The enigmatic smile of the Mona Lisa has puzzled art historians for centuries."},
+            {"sentence": "The panoply of emotions expressed in Shakespeare's works captivates audiences to this day."},
+            {"sentence": "The pernicious effects of unchecked capitalism on societal well being cannot be overstated."}
+          ]
+        }
+      ]
+    }
+  ]
+}
